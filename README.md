@@ -1,3 +1,3 @@
 ## react_rdx_crud
-## After Install Run
+## After Install Run command
 # npm run dev
